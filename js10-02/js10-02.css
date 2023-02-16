@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(100deg, rgba(254, 197, 187, 1) 0%, rgba(216, 226, 220, 1) 70%) 
+   }
+   
+   main {
+     margin-top: 70px;
+     text-align: center;
+   }
+   
+   button {
+     width: 200px;
+     height: 50px;
+     background-color: #d8e2dc;
+     border: 2px solid white;
+     border-radius: 5px;
+     color: #b41e04;
+     cursor: pointer;
+   }
+   
+   button:hover {
+     background-color: #fae1dd;
+     transform: scale(1.05);
+   }
